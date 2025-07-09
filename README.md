@@ -60,6 +60,14 @@ threat-dashboard/
 
 ** HOW TO RUN THIS CODE**
 
+1) Make changes to evn file 
+   DB_NAME=threatsdb
+   DB_USER=root
+   DB_PASSWORD=Beldar@123
+   DB_HOST=localhost
+   DB_DIALECT=mysql
+   PORT=5000
+
 1️⃣ Clone the repository
 git clone https://github.com/DIV123YA/threat-dashboard/
 cd threat-dashboard
