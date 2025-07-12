@@ -61,9 +61,9 @@ threat-dashboard/
 ** HOW TO RUN THIS CODE**
 
 1) Make changes to evn file 
-   DB_NAME=threatsdb
+   DB_NAME=database_name
    DB_USER=root
-   DB_PASSWORD=Beldar@123
+   DB_PASSWORD=password
    DB_HOST=localhost
    DB_DIALECT=mysql
    PORT=5000
